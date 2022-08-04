@@ -1,0 +1,664 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"ma",
+				"margin-left\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"padding",
+				"padding-bottom\tproperty"
+			],
+			[
+				"m",
+				"margin-top\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"text-t",
+				"text-decoration\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"bord",
+				"border-width\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"follow",
+				"follow-us"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"margi",
+				"margin-right\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"l",
+				"letter-spacing\tproperty"
+			],
+			[
+				"paddin",
+				"padding\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"t",
+				"transparent\tbackground"
+			],
+			[
+				"le",
+				"left\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"borde",
+				"border-radius\tproperty"
+			],
+			[
+				"col-sm",
+				"col-sm-12"
+			],
+			[
+				"col-md",
+				"col-md-12"
+			],
+			[
+				"col-lg",
+				"col-lg-12"
+			],
+			[
+				"col-xl",
+				"col-xl-12"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"rg",
+				"rgba()\tbackground-color"
+			],
+			[
+				"img",
+				"img-thumbnail"
+			],
+			[
+				"box-s",
+				"box-shadow\tproperty"
+			],
+			[
+				"f",
+				"f9c70c"
+			],
+			[
+				"te",
+				"text-uppercase"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"sea",
+				"searchform"
+			],
+			[
+				"large",
+				"medium_large"
+			],
+			[
+				"inde",
+				"text-indent\tproperty"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"fo",
+				"font-weight\tproperty"
+			],
+			[
+				"ba",
+				"background-position\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"text-",
+				"text-transform\tproperty"
+			],
+			[
+				"s",
+				"square\tlist-style"
+			],
+			[
+				"p",
+				"png"
+			],
+			[
+				"pading",
+				"padding-right\tproperty"
+			],
+			[
+				"bagroun",
+				"background-image\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"shoes",
+				"shoes-page"
+			],
+			[
+				"py",
+				"py-3"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"bo",
+				"box-shadow\tproperty"
+			],
+			[
+				"be",
+				"best-seller"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"bround",
+				"background-image\tproperty"
+			],
+			[
+				"col-xs",
+				"col-xs-12"
+			],
+			[
+				"margin-",
+				"margin-left\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"c",
+				"clip\tproperty"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"fla",
+				"flex-wrap\tproperty"
+			],
+			[
+				"stra",
+				"Straight-hair"
+			],
+			[
+				"str",
+				"Straight-hair"
+			],
+			[
+				"mt",
+				"mt-sm-3"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"py-",
+				"py-3"
+			],
+			[
+				"float",
+				"float-right"
+			],
+			[
+				"backgro",
+				"background-attachment\tproperty"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"i",
+				"italic\tfont-style"
+			],
+			[
+				"font-st",
+				"font-style\tproperty"
+			],
+			[
+				"hei",
+				"height\tproperty"
+			],
+			[
+				"U",
+				"uppercase\ttext-transform"
+			],
+			[
+				"bor",
+				"border-right\tproperty"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"get",
+				"getElementsByClassName"
+			],
+			[
+				"he",
+				"height\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"clo",
+				"color\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"word",
+				"word-spacing\tproperty"
+			],
+			[
+				"Text",
+				"text-align\tproperty"
+			],
+			[
+				"b",
+				"border-collapse\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/Food/wp-content/themes/sydney/page-templates/career-page.php",
+		"/C/xampp/htdocs/Food/wp-config.php",
+		"/C/xampp/htdocs/Food/wp-content/themes/sydney/style.css",
+		"/C/xampp/htdocs/Food/wp-activate.php",
+		"/C/xampp/htdocs/Food/wp-content/themes/sydney/home.php",
+		"/C/xampp/htdocs/Food4U/wp-content/themes/sydney/header.php",
+		"/C/xampp/htdocs/ecommerce/wp-includes/update.php",
+		"/C/Users/Lenovo/Documents/Desktop/VHOST/httpd.conf",
+		"/C/Users/Lenovo/Documents/Desktop/VHOST/httpd-vhosts.conf",
+		"/D/Xampp/apache/conf/httpd.conf",
+		"/D/Xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/D/xampp/apache/conf/httpd.conf",
+		"/D/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/D/xampp2/apache/conf/extra/httpd-vhosts.conf",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/xampp2/apache/conf/httpd.conf",
+		"/C/Users/Lenovo/Documents/Desktop/VHOST/hosts",
+		"/D/Xampp/apache/conf/extra/httpd-vhosts - Copy.conf",
+		"/D/_Projects/localhost3/wp-content/themes/sydney/style.css",
+		"/D/_Projects/localhost3/wp-content/themes/sydney/single.php",
+		"/D/_Projects/localhost3/wp-content/themes/sydney/sidebar.php",
+		"/D/_Projects/localhost3/wp-content/themes/sydney/content-single.php",
+		"/C/Users/Lenovo/Documents/Desktop/bootstrap2/css/style.css",
+		"/C/Users/Lenovo/Documents/Desktop/bootstrap project 1/css/style.css",
+		"/C/Users/Lenovo/Documents/Desktop/bootstrap project 1/shoes-page.html",
+		"/C/Users/Lenovo/Documents/Desktop/bootstrap project 1/sale.html",
+		"/C/Users/Lenovo/Documents/Desktop/bootstrap project 1/contact-us.html",
+		"/C/Users/Lenovo/Documents/Desktop/bootstrap project 1/index.html",
+		"/C/Users/Lenovo/Documents/Desktop/bootstrap2/index.html",
+		"/C/Users/Lenovo/Documents/Desktop/bootstrap project 1/about-us .html",
+		"/C/Users/Lenovo/Documents/Desktop/bootstrap project 1/bags-page.html",
+		"/C/Users/Lenovo/Documents/Desktop/bootstrap2/about-us.html",
+		"/C/Users/Lenovo/Documents/Desktop/bootstrap2/contact-us.html",
+		"/C/Users/Lenovo/Documents/Desktop/bootstrap2/careers.html",
+		"/C/Users/Lenovo/Documents/Desktop/bootstrap2/restaurants.html",
+		"/D/_Projects/localhost3/wp-content/themes/sydney/404.php",
+		"/D/_Projects/localhost3/wp-content/themes/sydney/home.php",
+		"/C/Users/Lenovo/Documents/Desktop/bootstrap2/css/index.html",
+		"/C/Users/Lenovo/Documents/Desktop/bootstrap2/css/home.html",
+		"/D/_Projects/localhost4/wp-content/themes/sydney/functions.php",
+		"/D/_Projects/localhost4/wp-content/themes/sydney/style.css",
+		"/D/_Projects/localhost4/wp-content/themes/sydney/header.php",
+		"/D/_Projects/localhost4/wp-content/themes/sydney/home.php",
+		"/D/_Projects/localhost1/wp-content/themes/hhglg/header.php",
+		"/D/_Projects/localhost3/wp-content/themes/sydney/functions.php",
+		"/D/_Projects/localhost3/wp-content/themes/sydney/archive.php",
+		"/D/_Projects/localhost3/wp-content/themes/sydney/page-templates/career-page.php",
+		"/D/_Projects/localhost3/wp-content/themes/sydney/footer.php",
+		"/D/_Projects/localhost3/wp-content/themes/sydney/page-templates/about-page.php",
+		"/C/Users/Lenovo/Documents/Desktop/WebCourse Tests/Service iii – Construction WordPress Theme_files/scripts.js",
+		"/C/Users/Lenovo/Documents/Desktop/bootatrap-Project/css/style.css",
+		"/D/_Projects/localhost4/wp-includes/js/dist/block-library.js",
+		"/C/Users/Lenovo/Documents/Desktop/bootstrap project 1/shop.html",
+		"/D/_Projects/localhost4/wp-content/themes/fsdg/home.php",
+		"/D/_Projects/localhost1/wp-content/themes/hhglg/style.css",
+		"/D/webdesign/combination.html",
+		"/D/webdesign/projects.html",
+		"/D/webdesign/general.html",
+		"/D/webdesign/background-property.html",
+		"/D/webdesign/boxposition.html",
+		"/D/JavaScript Exercise/exercise15.html",
+		"/C/Users/Lenovo/Documents/Desktop/bootstrap project 1/js/script1.js",
+		"/C/Users/Lenovo/Documents/Desktop/bootstrap project 1/js/script.js1",
+		"/C/Users/Lenovo/Documents/Desktop/bootstrap project 1/js/script.js",
+		"/D/_Projects/localhost3/wp-content/themes/sydney/page-templates/restaurants-page.php",
+		"/D/_Projects/localhost1/wp-content/themes/hhglg/single.php",
+		"/D/_Projects/localhost4/wp-content/themes/sydney/js/main.js",
+		"/D/_Projects/localhost4/wp-content/themes/sydney/footer.php",
+		"/D/_Projects/localhost3/wp-content/themes/sydney/page-templates/contact-us-page.php",
+		"/D/webdesign/position1.html",
+		"/C/Users/Lenovo/Downloads/DoorDash Careers _ Work at DoorDash.html",
+		"/D/_Projects/localhost3/wp-content/themes/sydney/page.php",
+		"/D/_Projects/localhost3/wp-content/themes/sydney/index.php",
+		"/D/_Projects/localhost3/wp-content/themes/sydney/post-templates/post_nosidebar.php",
+		"/D/_Projects/localhost3/wp-content/themes/sydney/post-templates/post_full.php",
+		"/D/_Projects/localhost3/wp-content/themes/sydney/archive-employees.php",
+		"/D/_Projects/localhost3/wp-config.php",
+		"/D/_Projects/localhost3/wp-comments-post.php",
+		"/D/_Projects/localhost3/wp-content/themes/sydney/archive1.php",
+		"/D/_Projects/localhost3/wp-content/themes/sydney/career-page.php",
+		"/D/_Projects/localhost1/wp-content/themes/hhglg/archive.php",
+		"/D/_Projects/localhost1/wp-content/themes/hhglg/page-templates/about.php",
+		"/D/_Projects/localhost1/wp-content/themes/hhglg/footer.php",
+		"/D/_Projects/localhost1/wp-content/themes/hhglg/page-templates/contact-us.php",
+		"/D/_Projects/localhost3/wp-content/themes/sydney/page-templates/page_fullwidth.php",
+		"/D/_Projects/localhost3/wp-admin/includes/class-wp-comments-list-table.php",
+		"/D/_Projects/localhost3/wp-content/themes/sydney/header.php",
+		"/D/_Projects/localhost1/wp-content/themes/hhglg/home.php",
+		"/C/Users/Lenovo/Documents/Desktop/WebCourse Tests/jquary1.html",
+		"/C/Users/Lenovo/Downloads/Friend Social Donation Group _ လက္တြဲကူညီ FSDG.html",
+		"/C/Users/Lenovo/Downloads/Friend Social Donation Group _ လက္တြဲကူညီ FSDG_files/custom-style.css",
+		"/C/Users/Lenovo/Downloads/Friend Social Donation Group _ လက္တြဲကူညီ FSDG_files/jquery.carouFredSel-6.2.1-packed.js.download",
+		"/C/Users/Lenovo/Downloads/Friend Social Donation Group _ လက္တြဲကူညီ FSDG_files/css(3)",
+		"/C/Users/Lenovo/Downloads/Friend Social Donation Group _ လက္တြဲကူညီ FSDG_files/css(1)",
+		"/C/Users/Lenovo/Documents/Desktop/bootstrap project 1/best-seller.html",
+		"/C/Users/Lenovo/Documents/Desktop/bootstrap project 1/ss.html",
+		"/C/Users/Lenovo/Documents/Desktop/bootstrap project 1/promotion.html",
+		"/C/Users/Lenovo/Documents/Java Script/setattribute.html",
+		"/C/Users/Lenovo/Documents/Desktop/JQuery/Jquery.html",
+		"/C/Users/Lenovo/Documents/Desktop/bootatrap-Project/contact-us.html",
+		"/C/Users/Lenovo/Documents/Desktop/bootatrap-Project/about-us.html",
+		"/C/Users/Lenovo/Documents/Desktop/bootatrap-Project/index.html",
+		"/C/Users/Lenovo/Videos/Niro Shiki - အပိုင္းတဆယ့္ကိုး   Pls like and share to....mp4",
+		"/C/Users/Lenovo/Documents/Desktop/bootatrap-Project/ourgallery.html",
+		"/C/Users/Lenovo/Documents/Desktop/bootatrap-Project/curly-hair.html",
+		"/C/Users/Lenovo/Documents/Desktop/bootatrap-Project/wavy-hair.html",
+		"/C/Users/Lenovo/Documents/Desktop/bootatrap-Project/straight-hair.html",
+		"/D/_Projects/localhost2/wp-content/themes/New HHGLG/functions.php",
+		"/D/_Projects/localhost2/wp-content/themes/New HHGLG/page.php",
+		"/D/_Projects/localhost2/wp-content/themes/New HHGLG/page-templates/contact_page.php",
+		"/D/_Projects/localhost2/wp-content/themes/New HHGLG/archive.php",
+		"/D/_Projects/localhost2/wp-content/themes/New HHGLG/page-templates/about_page.php",
+		"/D/_Projects/localhost2/wp-content/themes/New HHGLG/style.css",
+		"/D/_Projects/localhost2/wp-content/themes/New HHGLG/content.php",
+		"/D/_Projects/localhost2/wp-content/themes/New HHGLG/content-single.php",
+		"/D/_Projects/localhost2/wp-content/themes/New HHGLG/single.php",
+		"/D/_Projects/localhost2/wp-content/themes/New HHGLG/header.php",
+		"/D/_Projects/localhost2/wp-content/themes/New HHGLG/home.php",
+		"/D/_Projects/localhost2/wp-content/themes/New HHGLG/footer.php",
+		"/D/_Projects/localhost2/wp-content/themes/New HHGLG/page-templates/page_fullwidth.php",
+		"/D/_Projects/localhost1/wp-content/themes/hhglg/content-page.php",
+		"/D/_Projects/localhost1/wp-content/themes/hhglg/content-modern.php",
+		"/D/_Projects/localhost2/wp-content/themes/HHGLG/header.php",
+		"/D/_Projects/localhost2/wp-content/themes/HHGLG/home.php",
+		"/D/_Projects/localhost2/wp-content/themes/HHGLG/style.css",
+		"/D/_Projects/localhost1/wp-content/themes/hhglg/contact.php",
+		"/D/_Projects/localhost1/wp-content/themes/hhglg/functions.php",
+		"/D/_Projects/localhost1/wp-content/themes/hhglg/page.php"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 244.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "about-us.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"css\\style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

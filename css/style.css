@@ -1,0 +1,503 @@
+/***********Common Css**********/
+.header{
+	background-color: rgba(11, 7, 3, 0.9);
+}
+.header .logo-text h1{
+	color: #f9c70c;
+	margin-top: 18px;
+}
+.logo-text h1 span{
+	color: #fff;
+}
+.logo-text a{
+    text-decoration: none;
+}
+.bg-light {
+    background-color: transparent !important;
+}
+.navbar-expand-lg{
+	padding:25px 50px;
+	margin-left: 2px;
+	float:right;
+}
+.navbar-light .navbar-nav .nav-link {
+	color:#fff;
+	text-transform: uppercase;
+	text-align:right;
+	margin-left: 8px;
+}
+.navbar-light .navbar-nav .active > .nav-link,  .navbar-light .navbar-nav .nav-link:hover{
+	color:#f9c70c;
+}
+/**************Slider**********/
+.nopadding{
+	padding-left:0px;
+	padding-right:0px;
+}
+.slider .img{
+	position:absolute;
+	width: 100%;
+}
+.slider .search-form{
+	text-align: center;
+	position:relative;
+	padding:80px;
+	margin-top: -250px;
+}
+.slider .search-form h1{
+	color: #fff;
+}
+.slider .search-form p{
+	color:#fff;
+	font-size: 16px;
+	background-color: #bbb;
+	margin:auto 370px;
+	padding-bottom: 3px;
+}
+.search-form .btn-primary {
+    padding: 11px 32px;
+}
+form.search-location input[type=text] {
+  margin-top: 10px;
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid #fff;
+  width: 25%;
+  background: #fff;
+}
+/**************About section************/
+.about-section h1{
+	font-size: 30px;
+	font-weight:600;
+	color:#f9c70c;
+	margin-bottom: 20px;
+}
+.about-section img{
+	width: 250px;
+}
+.about-section p{
+		text-align: center;
+		margin:40px 100px;
+}
+.about-section button{
+		margin-left: 470px;
+}
+ .btn-primary{
+    color: #fff;
+    background-color: #f9c70c;
+    border: 1px solid #f9c70c;
+    padding: 12px 34px;
+  }
+  .btn-info{
+  color: #fff;
+    background-color: #f9c70c;
+    border: 1px solid #f9c70c;	
+  }
+  .btn-primary:hover, .btn-info:hover{
+    color: #f9c70c;
+    background-color:transparent;
+    border: 1px solid #f9c70c;
+  }
+
+/*************restaurants-section**************/
+.restaurants-section{
+	padding: 40px;
+}
+.restaurants-section h1{
+	font-size: 30px;
+	font-weight: 600;
+	color:#f9c70c;
+}
+.restaurants-section h4{
+	color:#737674;
+	font-style: italic;
+	letter-spacing: 3px;
+}
+.restaurants-section img{
+	position: relative;
+	width: 100%;
+	border:4px solid #eee;
+}
+.restaurants-section a{
+	background-color: rgba();
+}
+.restaurants-section h5{
+	position: absolute;
+	font-style: italic;
+	letter-spacing: 2px;
+	color:#fb5345;
+	margin-top: -65px;
+	margin-left: 15px;
+}
+.restaurants-section .fa{
+	color:#fb5345;
+	position: absolute;
+	margin-top: -65px;
+	margin-left: 300px;
+}
+.recommended-restaurants{
+	padding: 30px;
+}
+.recommended-restaurants h3{
+	color:#f9c70c; 
+}
+.recommended-restaurants p{
+	text-align: justify;
+	text-indent:20px;
+	padding:30px auto;
+	font-size: 16px;
+}
+.recommended-restaurants img{
+	margin-top: 30px;
+	position: relative;
+	width:300px;
+	border:20px solid #ddd;
+}
+.recommended-restaurants h5 {
+	position: absolute;
+	margin-left: 30px;
+	margin-top: -55px;
+	color: #fb5345;
+	background-color: #ddd;
+}
+/*********Career-Section*******/
+.careers-section{
+	margin-top: 30px;
+	background-image: url(../img/bg.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	padding:50px 0px;
+}
+.careers-section h1{
+	font-size: 30px;
+	font-weight: 600;
+	color:#f9c70c;
+	padding:20px;
+}
+.careers-section p{
+	color:#fff;
+}
+.careers-section button{
+		margin-left: 450px;
+}
+/************Order Section************/
+.order-section {
+	background-color:#f9c70c; 
+}
+.order-section h1{
+	font-size: 30px;
+	font-weight: 600;
+	color:#333;
+	padding: 10px auto;
+}
+.order-section p{
+	float:left;
+	padding-top:35px;
+	text-align: justify;
+	text-indent: 30px;
+}
+.order-section img{
+	margin-left: 50px;
+}
+/*************Contact-Section**********/
+.contact-section{
+	background-color: #15130b;
+}
+.contact-section h1{
+	font-size: 30px;
+	font-weight: 600;
+	color:#f9c70c;
+	text-transform: capitalize;
+}
+.contact-section h1 span{
+ color:#fff;
+}
+.contact-section img{
+	border:1px solid #ddd;
+	width: 50%;
+	margin-bottom: 20px;
+}
+.contact-section ul li{
+ list-style: none;
+ margin-left:-20px;
+ position: relative;
+}
+.contact-section ul li:before{
+	position: absolute;
+	 content:"\2756";
+	 top:2px;
+	 left: -18px;
+	 color: #fff;
+}
+.contact-section ul li a {
+    color: #fff;
+}
+.contact-section .social-link{
+margin-left: 20px;
+}
+.contact-section .fa {
+  padding: 5px;
+  font-size: 26px;
+  width: 35px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+.contact-section .fa:hover {
+    opacity: 0.7;
+}
+.contact-section .fa-facebook {
+  background: #f9c70c;
+  color: #fff;
+}
+
+ .contact-section .fa-twitter {
+  background:#f9c70c;
+  color:#fff;
+}
+.contact-section .fa-instagram {
+  background: #f9c70c;
+  color: #fff;
+}
+/*********Footer-section*************/
+.footer-section{
+	background-color:#221a04;
+	color:#fff;
+}
+.footer-section .text {
+	margin-top: 20px;
+	font-size: 14px;
+}
+.footer-section .text span{
+	color: #f9c70c;
+}
+.footer-section .text .float-right{
+	float:right;
+}
+/***************Inner-Page*************/
+.inner-page{
+	background-image: url(../img/aboutbanner.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding:50px 0px;
+}
+.inner-page h1{
+	font-size: 30px;
+	font-weight: 600;
+	padding-top:95px;
+	padding-bottom: 50px;
+	color: #fff;
+}
+.breadcrumb{
+margin-top:-50px;
+background-color:#fff;
+border-radius: 15px;
+padding-left: 40px;
+}
+.breadcrumb a {
+    color: #333;
+}
+.breadcrumb-item.active {
+ color:#f9c70c;
+}
+.about-page{
+padding-top: 20px;
+background-color: #ddd;
+}
+
+.about-page p{
+	text-indent: 30px;
+	text-align: center;
+}
+.about-work h1{
+	font-size: 30px;
+	font-weight: 600;
+	color:#f9c70c;
+}
+.about-work{
+	padding:40px;
+background-color: #fff;
+}
+.about-work img{
+	margin-left: 70px;
+	margin-right:-35px;
+}
+.about-delivering{
+	padding:40px;
+}
+.about-delivering h1{
+	font-size: 30px;
+	font-weight: 600;
+	margin-bottom:40px;
+	color:#f9c70c;
+}
+.about-delivering .bg-color{
+	background-color:rgba(249, 199, 12, 0.54);
+	border-radius: 15px 0px 0px 15px;
+	position:absolute;
+	width:98px;
+	height: 390px;
+}
+.about-delivering h2{
+	text-align: center;
+	color: #333;
+}
+.about-delivering p{
+	position: relative;	
+	margin-top: 80px;
+	color: #333;
+	text-align:justify;
+	text-indent: 30px;
+
+}
+.about-delivering button{
+	margin-left: 195px;
+	margin-top: 30px;
+}
+.about-mission{
+background-color:#f9c70c;
+padding:45px;	
+}
+.about-mission h2{
+color: #fff;
+margin-left: 25px;
+}
+.about-mission ul{
+	list-style: none;
+	color: #fff;
+}
+/***************Restaurants Pages**************/
+.inner-page1{
+	background-image: url(../img/banners4.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding:50px 0px;
+}
+.inner-page1 h1{
+	font-size: 30px;
+	font-weight: 600;
+	color: #f9c70c;
+	padding-top:95px;
+	padding-bottom: 50px;
+}
+.restaurants-page{
+	margin-top: 30px;
+}
+#cf {
+  position:relative;
+   height:280px;
+  width:300px;
+}
+
+#cf img {
+  margin:0 auto;
+  width: 350px;
+  border:20px solid #ddd;
+  position:absolute;
+  left:0;
+  -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+}
+
+#cf img.top:hover {
+  opacity:0;
+}
+.restaurants-page h5 {
+	color: #f9c70c;
+   text-align: center;
+   font-size: 20px;
+   margin-top: -2px;
+}
+.restaurants-page button{
+    padding: 8px 12px;
+    margin-left: 125px;
+    margin-bottom: 40px;
+}
+/**************Careers-Page*********/
+.inner-page2{
+	background-image: url(../img/banners4.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding:50px 0px;
+}
+
+.inner-page2 h1{
+	font-size: 30px;
+	font-weight: 600;
+	color: #fff;
+	padding-top:95px;
+	padding-bottom: 50px;
+}
+.work-with-us-page{
+	padding: 50px;
+}
+.work-with-us-page h2{
+	margin-top: -6px;
+	color: #f9c70c;
+}
+.work-with-us-page p{
+	text-align: justify;
+	text-indent: 30px;
+}
+.work-with-us-page img{
+	text-align: justify;
+	text-indent: 30px;
+}
+.why-work-with-us-page{
+	padding: 40px;
+}
+.why-work-with-us-page h1{
+	color: #f9c70c;
+	font-size: 27px;
+	font-weight: 600;
+}
+.why-work-with-us-page h3{
+	margin-top: 20px;
+	font-size: 24px;
+	color: #333;
+}
+.why-work-with-us-page h3 span{
+	color:#f9c70c;
+}
+.careers-meet{
+	padding: 50px;
+}
+.careers-meet h2{
+	color: #f9c70c;
+	font-weight: 600;
+	font-size: 27px;
+}
+.careers-meet p{
+	text-align: justify;
+	text-indent: 30px;
+}
+/****************Contact Us*****************/
+.inner-page3{
+	background-image: url(../img/contactbanner.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding:50px 0px;
+}
+.inner-page3 h1{
+	font-weight: 600;
+	font-size: 30px;
+	color: #f9c70c;
+	padding-top:95px;
+	padding-bottom: 50px;
+}
+.contact-form{
+	padding: 30px;
+}
+.contact-form .form-control{
+border: 2px solid #aaa;
+} 
+.contact-form iframe{
+    height: 430px;
+    margin-top: 53px;
+}
+
+
